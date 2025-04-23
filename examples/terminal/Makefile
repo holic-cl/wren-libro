@@ -21,3 +21,4 @@ iw install-windows:
 	rm -f wren_cli-windows-${WREN_VERSION}.zip
 	rm -rf readme.md
 	mv wren_cli-${WREN_VERSION}.exe wren.exe
+	ls wren-cli
